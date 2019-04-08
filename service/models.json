@@ -1,0 +1,16 @@
+{
+    "methods": [
+        {
+            "module": "project",
+            "action": "list",
+            "prefix": "/fetchProjectList",
+            "method": "get"
+        },
+        {
+            "module": "NB",
+            "action": "test",
+            "method": "post"
+        }
+    ]
+
+}

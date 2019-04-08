@@ -1,0 +1,22 @@
+{
+    "logger": {
+        "level": "debug",
+        "pretty": true,
+        "name": "SK"
+    },
+    "service": {
+        "host": "0.0.0.0",
+        "port": 8080
+    },
+    "api": {
+        "models": "./models"
+    },
+    "database": [
+        {
+            "type": "mongo",
+            "name": "mcee",
+            "url": "mongodb://127.0.0.1:27017",
+            "base": "tmp"
+        }
+    ]
+}
