@@ -1,3 +1,5 @@
 ### koa-demo 
-##### cd koa-demo && npm i
-#### npm start 
+### start
++ git clone https://github.com/magdsnail/koa-demo.git
+- cd koa-demo && npm install
+- npm start
