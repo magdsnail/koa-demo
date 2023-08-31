@@ -16,7 +16,7 @@
     "koa-router": "^10.1.1",
     "koa-static": "^5.0.0",
     "koa2-cors": "^2.0.6",
-    "mongodb": "^4.4.0",
+    "mongodb": "^4.17.0",
     "pino-step": "^1.0.3",
     "redis": "^4.0.4",
     "request": "^2.88.2",
